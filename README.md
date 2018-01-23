@@ -1,4 +1,4 @@
 # cssgriddy
-##A study of crafting user interfaces using CSS Grid.
+A study of crafting user interfaces using CSS Grid.
 
 
