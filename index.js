@@ -1,2 +1,2 @@
 //vanilla JS here
-var function()
+function writeStamp()
